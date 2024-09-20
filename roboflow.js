@@ -11,8 +11,8 @@ let Scene_2 = 'WebcamScene2'
 let Source_1 = 'Lenny'
 
 // SET UP ROBOFLOW.JS AUTH VARIABLES
-let publishable_key = "API_KEY";
-let model = "MODEL_ID";
+let publishable_key = "rf_s51DE8GBv7g20X6Sg90ckUOzpXx2";
+let model = "boyofblue";
 let version = 1;
 
 // TUNE ROBOFLOW.JS DETECTION VARIABLES (HIGHER THRESHOLD MEANS MORE ACCURATE)
